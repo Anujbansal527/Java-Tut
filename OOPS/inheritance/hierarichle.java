@@ -1,4 +1,4 @@
-package inheritance;
+
 
 class parent{
 

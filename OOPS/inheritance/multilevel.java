@@ -1,4 +1,3 @@
-package inheritance;
 
 class grandparent{
 

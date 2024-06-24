@@ -1,4 +1,3 @@
-package inheritance;
 
 //not support in java but reach by using interface and implements
 /*

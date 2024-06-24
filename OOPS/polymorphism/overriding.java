@@ -1,4 +1,3 @@
-package polymorphism;
 
 class Animal{
     void eat(){
